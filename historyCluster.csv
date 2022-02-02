@@ -1,0 +1,105 @@
+    1  01/02/22 13:38:52 tsurugi  pts/1        2022-02-02 13:29 (:0)sync
+    2  01/02/22 13:39:29 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo su
+    3  01/02/22 13:42:20 tsurugi  pts/1        2022-02-02 13:29 (:0)exit
+    4  02/02/22 11:15:40 tsurugi  pts/1        2022-02-02 13:29 (:0)xrandr
+    5  02/02/22 11:15:44 tsurugi  pts/1        2022-02-02 13:29 (:0)arandr 
+    6  02/02/22 11:52:24 tsurugi  pts/1        2022-02-02 13:29 (:0)clear
+    7  02/02/22 10:55:00 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo apt-get update
+    8  02/02/22 10:56:41 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo apt-get install audacity
+    9  02/02/22 10:56:45 tsurugi  pts/1        2022-02-02 13:29 (:0)audacity
+   10  02/02/22 11:47:44 tsurugi  pts/1        2022-02-02 13:29 (:0)cd Downloads/
+   11  02/02/22 11:47:50 tsurugi  pts/1        2022-02-02 13:29 (:0)unzip reconMicTranslate-master.zip 
+   12  02/02/22 11:47:52 tsurugi  pts/1        2022-02-02 13:29 (:0)cd reconMicTranslate-master/
+   13  02/02/22 11:47:53 tsurugi  pts/1        2022-02-02 13:29 (:0)ll
+   14  02/02/22 11:47:59 tsurugi  pts/1        2022-02-02 13:29 (:0)python --version
+   15  02/02/22 11:48:06 tsurugi  pts/1        2022-02-02 13:29 (:0)python3 reconMicLinux.py 
+   16  02/02/22 11:48:14 tsurugi  pts/1        2022-02-02 13:29 (:0)pip3 install speechrecognition
+   17  02/02/22 11:48:54 tsurugi  pts/1        2022-02-02 13:29 (:0)python3 reconMicLinux.py 
+   18  02/02/22 11:49:02 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo -H pip3 install speechrecognition
+   19  02/02/22 11:49:28 tsurugi  pts/1        2022-02-02 13:29 (:0)python3 reconMicLinux.py 
+   20  02/02/22 11:49:49 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo -H pip3 install speech_recognition
+   21  02/02/22 11:50:11 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo -H pip3 install --upgrade pip
+   22  02/02/22 11:50:29 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo -H pip3 install speechRecognition
+   23  02/02/22 11:50:37 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo -H pip3 install SpeechRecognition
+   24  02/02/22 11:50:45 tsurugi  pts/1        2022-02-02 13:29 (:0)pip3 install SpeechRecognition
+   25  02/02/22 11:50:55 tsurugi  pts/1        2022-02-02 13:29 (:0)python3 reconMicLinux.py 
+   26  02/02/22 11:51:06 tsurugi  pts/1        2022-02-02 13:29 (:0)pip3 install sr
+   27  02/02/22 11:51:13 tsurugi  pts/1        2022-02-02 13:29 (:0)python3 reconMicLinux.py 
+   28  02/02/22 11:51:29 tsurugi  pts/1        2022-02-02 13:29 (:0)python3.6 reconMicLinux.py 
+   29  02/02/22 11:51:42 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo -H pip3 install googletrans
+   30  02/02/22 11:51:55 tsurugi  pts/1        2022-02-02 13:29 (:0)python3.6 reconMicLinux.py 
+   31  02/02/22 11:52:02 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo -H pip3 install pygame
+   32  02/02/22 11:52:28 tsurugi  pts/1        2022-02-02 13:29 (:0)python3.6 reconMicLinux.py 
+   33  02/02/22 11:52:39 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo -H pip3 install gTTS
+   34  02/02/22 11:52:45 tsurugi  pts/1        2022-02-02 13:29 (:0)python3.6 reconMicLinux.py 
+   35  02/02/22 11:52:58 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo apt-get install python-pyaudio
+   36  02/02/22 11:53:03 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo apt-get install python3-pyaudio
+   37  02/02/22 11:53:21 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo -H pip3 install pyaudio
+   38  02/02/22 11:53:41 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo apt-get install pyaudio-python
+   39  02/02/22 11:53:49 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo apt-get install python-pyaudio
+   40  02/02/22 11:53:58 tsurugi  pts/1        2022-02-02 13:29 (:0)python3.6 reconMicLinux.py 
+   41  02/02/22 11:54:18 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo -H pip3 install pyaudio
+   42  02/02/22 11:54:28 tsurugi  pts/1        2022-02-02 13:29 (:0)pip3 install pyaudio
+   43  02/02/22 11:54:46 tsurugi  pts/1        2022-02-02 13:29 (:0)pip3.6 install pyaudio
+   44  02/02/22 11:54:52 tsurugi  pts/1        2022-02-02 13:29 (:0)pip3.5 install pyaudio
+   45  02/02/22 11:56:30 tsurugi  pts/1        2022-02-02 13:29 (:0)python3.6 reconMicLinux.py 
+   46  02/02/22 11:57:28 tsurugi  pts/1        2022-02-02 13:29 (:0)cd Downloads/
+   47  02/02/22 11:57:37 tsurugi  pts/1        2022-02-02 13:29 (:0)gunzip PyAudio-0.2.11.tar.gz 
+   48  02/02/22 11:57:51 tsurugi  pts/1        2022-02-02 13:29 (:0)tar -xvf PyAudio-0.2.11.tar 
+   49  02/02/22 11:57:55 tsurugi  pts/1        2022-02-02 13:29 (:0)cd PyAudio-0.2.11/
+   50  02/02/22 11:57:56 tsurugi  pts/1        2022-02-02 13:29 (:0)ls
+   51  02/02/22 11:58:11 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo -H python3 setup.py 
+   52  02/02/22 11:58:15 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo -H python3 setup.py install
+   53  02/02/22 11:58:37 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo apt install portaudio
+   54  02/02/22 11:58:41 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo synaptic
+   55  02/02/22 11:58:46 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo apt install synaptic
+   56  02/02/22 11:59:03 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo -H python3 setup.py install
+   57  02/02/22 11:59:08 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo -H python3.6 setup.py install
+   58  02/02/22 11:59:36 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo apt-get install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0
+   59  02/02/22 11:59:52 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo apt-get install libasound2-dev portaudio19-dev libportaudio2 libportaudiocpp0
+   60  02/02/22 12:00:22 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo apt-get install portaudio19-dev libportaudiocpp0
+   61  02/02/22 12:00:27 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo apt-get install portaudio20-dev libportaudiocpp0
+   62  02/02/22 12:00:36 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo apt-get install portaudio-dev libportaudiocpp
+   63  02/02/22 12:01:01 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo apt-get install ffmpeg libav-tools
+   64  02/02/22 12:01:30 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo -H pip3.6 install pyaudio
+   65  02/02/22 12:01:50 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo -H pip3.6 install PyAudio
+   66  02/02/22 12:02:27 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo apt-get install python3-pyaudio
+   67  02/02/22 12:02:33 tsurugi  pts/1        2022-02-02 13:29 (:0)sudo apt-get install python-pyaudio
+   68  02/02/22 12:30:17 tsurugi  pts/1        2022-02-02 13:29 (:0)cd
+   69  02/02/22 12:30:18 tsurugi  pts/1        2022-02-02 13:29 (:0)cd Desktop/
+   70  02/02/22 12:30:22 tsurugi  pts/1        2022-02-02 13:29 (:0)cd CLUSTER/
+   71  02/02/22 12:30:27 tsurugi  pts/1        2022-02-02 13:29 (:0)python encode_faces.py -h
+   72  02/02/22 12:30:33 tsurugi  pts/1        2022-02-02 13:29 (:0)python3 encode_faces.py -h
+   73  02/02/22 12:30:52 tsurugi  pts/1        2022-02-02 13:29 (:0)python3.5 encode_faces.py -h
+   74  02/02/22 12:30:58 tsurugi  pts/1        2022-02-02 13:29 (:0)python3.6 encode_faces.py -h
+   75  02/02/22 12:31:56 tsurugi  pts/1        2022-02-02 13:29 (:0)python encode_faces.py -h
+   76  02/02/22 12:32:11 tsurugi  pts/1        2022-02-02 13:29 (:0)geany encode_faces.py &
+   77  02/02/22 12:32:34 tsurugi  pts/1        2022-02-02 13:29 (:0)python encode_faces.py -h
+   78  02/02/22 12:34:24 tsurugi  pts/1        2022-02-02 13:29 (:0)python2 encode_faces.py -i  target/ -e antPickle -d cnn
+   79  02/02/22 12:35:47 tsurugi  pts/1        2022-02-02 13:29 (:0)python2 encode_faces.py -i  images/ -e antImagesPickle -d cnn
+   80  02/02/22 12:47:27 tsurugi  pts/1        2022-02-02 13:29 (:0)python recognize_faces_image.py 
+   81  02/02/22 12:48:31 tsurugi  pts/1        2022-02-02 13:29 (:0)python recognize_faces_image.py -d cnn -e antImagesPickle -i target/2022_02_02_12_28_46person.jpg 
+   82  02/02/22 12:49:53 tsurugi  pts/1        2022-02-02 13:29 (:0)python cluster_faces.py -h
+   83  02/02/22 12:50:49 tsurugi  pts/1        2022-02-02 13:29 (:0)python cluster_faces.py -e antImagesPickle -j -1 -o cluster/ 
+   84  02/02/22 12:51:54 tsurugi  pts/1        2022-02-02 13:29 (:0)python recognize_faces_images.py -h
+   85  02/02/22 12:52:31 tsurugi  pts/1        2022-02-02 13:29 (:0)python recognize_faces_images.py -e antImagesPickle -i target/2022_02_02_12_28_46person.jpg -d cnn
+   86  02/02/22 12:52:51 tsurugi  pts/1        2022-02-02 13:29 (:0)python recognize_faces_images.py -e antImagesPickle -i target/ -d cnn
+   87  02/02/22 12:54:22 tsurugi  pts/1        2022-02-02 13:29 (:0)python recognize_faces_imageCsvHtml.py -h
+   88  02/02/22 12:55:07 tsurugi  pts/1        2022-02-02 13:29 (:0)python recognize_faces_imageCsvHtml.py -m AntonioBroi -e antImagesPickle -i target/2022_02_02_12_28_46person.jpg -d cnn
+   89  02/02/22 12:59:05 tsurugi  pts/1        2022-02-02 13:29 (:0)python recognize_faces_imageHASH.py -h
+   90  02/02/22 13:00:23 tsurugi  pts/1        2022-02-02 13:29 (:0)python recognize_faces_imageHASH.py -e antImagesPickle  -i target/2022_02_02_12_28_46person.jpg -d cnn
+   91  02/02/22 13:03:14 tsurugi  pts/1        2022-02-02 13:29 (:0)geany recognize_faces_imageHASH.py
+   92  02/02/22 13:04:49 tsurugi  pts/1        2022-02-02 13:29 (:0)python recognize_faces_imageHASH.py -e antImagesPickle  -i target/2022_02_02_12_28_46person.jpg -d cnn
+   93  02/02/22 13:05:59 tsurugi  pts/1        2022-02-02 13:29 (:0)python2 encode_faces.py -i  target/ -e antPickle -d hog
+   94  02/02/22 13:06:34 tsurugi  pts/1        2022-02-02 13:29 (:0)python2 encode_faces.py -i  images/ -e antImageZorziAnt -d cnn
+   95  02/02/22 13:26:58 tsurugi  pts/1        2022-02-02 13:29 (:0)python recognize_faces_imageHASH.py -e antImagesPickle  -i target/2022_02_02_12_28_46person.jpg -d cnn
+   96  02/02/22 13:27:19 tsurugi  pts/1        2022-02-02 13:29 (:0)history
+   97  02/02/22 13:28:04 tsurugi  pts/1        2022-02-02 13:29 (:0)python recognize_faces_imageHASH.py  -e antImageZorziAnt -i target/2022_02_02_12_28_46person.jpg -d cnn
+   98  02/02/22 13:29:12 tsurugi  pts/1        2022-02-02 13:29 (:0)python recognize_faces_imageHASH.py  -e antImageZorziAnt target/2022_02_02_13_04_18person.jpg 
+   99  02/02/22 13:29:22 tsurugi  pts/1        2022-02-02 13:29 (:0)python recognize_faces_imageHASH.py  -e antImageZorziAnt -i target/2022_02_02_13_04_18person.jpg 
+  100  02/02/22 13:29:39 tsurugi  pts/1        2022-02-02 13:29 (:0)cd
+  101  02/02/22 13:29:40 tsurugi  pts/1        2022-02-02 13:29 (:0)clear
+  102  02/02/22 13:29:41 tsurugi  pts/1        2022-02-02 13:29 (:0)exit
+  103  02/02/22 13:29:51 tsurugi  pts/1        2022-02-02 13:29 (:0)history
+  104  02/02/22 13:30:07 tsurugi  pts/1        2022-02-02 13:29 (:0)cd Desktop/
+  105  02/02/22 13:30:18 tsurugi  pts/1        2022-02-02 13:29 (:0)history >> historyCluster.csv
